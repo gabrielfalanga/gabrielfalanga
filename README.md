@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel! 👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Gabriel!+👋🏼;You+can+call+me+Falanga!&size=35&color=836fff&height=50&width=500)](https://git.io/typing-svg)
 
 🎓 System Analisys and Development - FIAP.
 
