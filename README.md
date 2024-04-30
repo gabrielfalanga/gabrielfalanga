@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Gabriel!+👋🏼;You+can+call+me+Falanga!&size=35&color=836fff&height=50&width=500)](https://git.io/typing-svg)
 
-🎓 System Analisys and Development - FIAP.
+🎓 System Analysis and Development - FIAP.
 
 📚 Dedicated student with a passion for problem-solving and innovative solutions development.
 
