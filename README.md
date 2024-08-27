@@ -28,11 +28,6 @@
 </div>
 
 ‎<div> 
-## GitHub Stats 📊
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfalanga&layout=compact&theme=midnight-purple)
-
-‎ ‎ ‎ ‎ ‎
 ## 📫 Reach Me 📫
 
 <a href="https://www.linkedin.com/in/gabriel-falanga-78a8882b1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
