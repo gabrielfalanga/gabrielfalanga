@@ -6,14 +6,12 @@
 
 💡 Enthusiastic about **learning new skills** and **meeting new people**.
 
-💼 **Seeking a job** that challenges my technical and problem-solving skills.
-
 
 ## Languages 💻
 <img align="center" src="https://skillicons.dev/icons?i=py,java,js,ts,html,css" />
 
 ## Tools 🛠️
-<img src="https://skillicons.dev/icons?i=tensorflow,idea,pycharm,vscode,react,vite" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,idea,pycharm,vscode" />
 
 ## 📫 Reach Me 📫
 <a href="https://www.linkedin.com/in/gabriel-falanga-78a8882b1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
