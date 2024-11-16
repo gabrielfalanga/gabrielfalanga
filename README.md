@@ -11,7 +11,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,java,js,ts,html,css" />
 
 ## Tools 🛠️
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,idea,pycharm,vscode" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,tailwind,idea,pycharm,vscode" />
 
 ## 📫 Reach Me 📫
 <a href="https://www.linkedin.com/in/gabriel-falanga-78a8882b1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
