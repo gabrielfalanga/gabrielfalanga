@@ -8,7 +8,12 @@
 
 
 ## Languages 💻
-<img align="center" src="https://skillicons.dev/icons?i=py,java,js,ts,html,css" />
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=py,java" />
+    <img src="assets/img/sql.png" style="width: 20px" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</div>
 
 ## Tools 🛠️
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,tailwind,idea,pycharm,vscode" />
