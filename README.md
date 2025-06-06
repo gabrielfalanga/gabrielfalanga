@@ -2,22 +2,28 @@
 
 🎓 **System Analysis and Development** - FIAP
 
-📚 Passionate about **Machine Learning and Software Development**, always aiming for innovation and efficiency.
+💡 I’m a **Data Analyst** with a strong focus on **SQL**, **Power BI** and **Python**.  
+🚀 Currently working with **data collection** and the development of **dynamic dashboards** connected to **Databricks**.
 
-💡 Enthusiastic about **learning new skills** and **meeting new people**.
+💼 I have hands-on experience in **end-to-end projects**, from full-stack development to **machine learning** and **AI** solutions.  
+🔧 Proficient in tools and platforms like **Power Automate**, **Azure**, and **Excel**.  
+🧠 Strong foundation in **agile methodologies** and **version control**.  
 
+📚 Constantly improving my skills at FIAP, where I study **Systems Analysis and Development** and maintain excellent academic performance.  
+🤝 Passionate about learning, sharing knowledge, and collaborating on impactful projects that make a real difference.
 
-## Languages 💻
+---
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://skillicons.dev/icons?i=py,java" />
-    <img src="assets/img/sql.png" style="width: 50px" />
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-</div>
+## 🛠 Tech Stack
 
-## Tools 🛠️
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,tailwind,idea,pycharm,vscode" />
+- **Languages**: Python, SQL  
+- **Data & BI**: Power BI, Excel, Power Automate  
+- **Platforms**: Databricks, Azure  
+- **Tools**: Git, Jupyter, Agile methodologies  
+
+---
 
 ## 📫 Reach Me 📫
+
 <a href="https://www.linkedin.com/in/gabriel-falanga-78a8882b1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>‎ ‎ ‎
 <a href = "mailto:gabrielmartinsfalanga@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>‎
